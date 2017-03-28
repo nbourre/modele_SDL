@@ -157,6 +157,8 @@ int main(int argc, char** argv)
 		SDL_DestroyWindow(fenetre);
 		fenetre = NULL;
 
+		// test
+
 		/// TODO : Ajouter les appels pour la libération de la mémoire
 
 
